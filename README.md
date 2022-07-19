@@ -2,7 +2,6 @@
 Just basic codes to teach people
 
 1. LED blink
-2. Ultrasonic distance reading
-3. Ultrasonic to control LED
-4. 
-5.
+2. Motor driver (L298N) bacis
+3. Ultrasonic distance reading
+4. Ultrasonic to control LED
